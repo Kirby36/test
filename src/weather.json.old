@@ -1,0 +1,30 @@
+{
+  "coord": { "lon": -123.12, "lat": 49.26 },
+  "weather": [
+    { "id": 500, "main": "Rain", "description": "light rain", "icon": "10d" },
+    { "id": 701, "main": "Mist", "description": "mist", "icon": "50d" }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 10.21,
+    "pressure": 1004,
+    "humidity": 76,
+    "temp_min": 8,
+    "temp_max": 11
+  },
+  "visibility": 24140,
+  "wind": { "speed": 6.2, "deg": 110 },
+  "clouds": { "all": 90 },
+  "dt": 1523487600,
+  "sys": {
+    "type": 1,
+    "id": 3359,
+    "message": 0.0118,
+    "country": "CA",
+    "sunrise": 1523453201,
+    "sunset": 1523502040
+  },
+  "id": 6173331,
+  "name": "Vancouver",
+  "cod": 200
+}
